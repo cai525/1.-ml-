@@ -1,5 +1,5 @@
 # 基于ML的文本分类
- 对应邱锡鹏老师nlp(练习一)[https://github.com/FudanNLP/nlp-beginner],实现基于ML的文本分类
+ 对应邱锡鹏老师nlp[练习一](https://github.com/FudanNLP/nlp-beginner),实现基于ML的文本分类
 
 1. 参考
    1. [文本分类](文本分类.md)
